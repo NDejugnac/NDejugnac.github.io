@@ -1,3 +1,3 @@
 # NDejugnac.github.io
-Welcom in the portfolio of Noha Dejugnac Student in BTS SIO 2nd years.
-This portfolio is not finsh. ^^
+Welcome to the portfolio of Noha Dejugnac, a student in BTS SIO 2nd year. 
+This portfolio is not finished. ^^
